@@ -1,6 +1,6 @@
 
 /*
-Template Name: Apex App	
+Template Name: Apex App
 Author: MarkUps
 Author URI: http://www.markups.io/
 Version: 1.0
@@ -10,8 +10,8 @@ Version: 1.0
 /* Table of Content
 ==================================================
 #BASIC TYPOGRAPHY
-#HEADER	
-#MENU 
+#HEADER
+#MENU
 #FEATURE SECTION
 #VIDEO
 #APPPS SCREENSHOT
@@ -51,9 +51,9 @@ ul li {
 	line-height: 1.59;
 }
 
-a { 
+a {
 	text-decoration: none;
-	color: #2f2f2f;  
+	color: #2f2f2f;
 }
 
 a:hover,
@@ -78,25 +78,25 @@ h1 {
 	font-size: 38px;
 }
 
-h2 {  
-	font-size: 32px; 
-	line-height: 1.13; 
+h2 {
+	font-size: 32px;
+	line-height: 1.13;
 }
 
-h3 {  
-	font-size: 26px;  
+h3 {
+	font-size: 26px;
 }
 
-h4 {  
-	font-size: 22px;  
+h4 {
+	font-size: 22px;
 }
 
-h5 {  
-	font-size: 20px;  
+h5 {
+	font-size: 20px;
 }
 
-h6 {  
-	font-size: 18px;  
+h6 {
+	font-size: 18px;
 }
 
 img {
@@ -151,7 +151,7 @@ blockquote {
 	background-color: #f8f8f8;
 	border-radius: 0 4px 4px 0;
 	padding: 5px 15px;
-	
+
 }
 
 blockquote p {
@@ -430,7 +430,7 @@ button:focus {
 .mu-menu-close-btn:hover .mu-line:after {
 	-webkit-transform: rotate(0deg);
 	        transform: rotate(0deg);
-} 
+}
 
 /* Menu overlay */
 
@@ -458,7 +458,7 @@ button:focus {
 .mu-menu-full-overlay-inner {
 	display: inline;
 	float: left;
-	padding: 12% 15%;	
+	padding: 12% 15%;
 	width: 100%;
 }
 
@@ -976,8 +976,8 @@ button:focus {
 .mu-contact-form .form-control:focus {
 	background-color: #fff;
     outline: 0;
-    box-shadow: none;    
-} 
+    box-shadow: none;
+}
 
 .mu-contact-form .form-control::-webkit-input-placeholder {
 	color: #888;
@@ -986,7 +986,7 @@ button:focus {
 
 .mu-contact-form .form-control:-moz-placeholder { /* Firefox 18- */
 	color: #888;
-	font-size: 15px; 
+	font-size: 15px;
 }
 
 .mu-contact-form .form-control::-moz-placeholder {  /* Firefox 19+ */
@@ -994,14 +994,14 @@ button:focus {
 	font-size: 15px;
 }
 
-.mu-contact-form .form-control:-ms-input-placeholder {  
+.mu-contact-form .form-control:-ms-input-placeholder {
 	color: #888;
 	font-size: 15px;
 }
 
 .mu-contact-form .button-default::after,
 .mu-contact-form .button-default > span {
-	padding: 12px 40px;  
+	padding: 12px 40px;
 }
 
 .mu-social-media {
@@ -1122,10 +1122,10 @@ button:focus {
 		padding: 0;
 	}
 
-	
+
 }
 
-@media (max-width: 991px) {	
+@media (max-width: 991px) {
 
 	.mu-primary-btn {
 		font-size: 14px;
@@ -1174,13 +1174,13 @@ button:focus {
 		height: 40px;
 	}
 
-	.mu-apps-screenshot-slider .slick-prev::before, 
+	.mu-apps-screenshot-slider .slick-prev::before,
 	.mu-apps-screenshot-slider .slick-next::before {
 		font-size: 18px;
 	}
 
 
-		
+
 }
 
 @media (max-width: 767px) {
@@ -1194,11 +1194,11 @@ button:focus {
 	}
 
 	.mu-apple-btn,
-	.mu-google-btn, 
+	.mu-google-btn,
 	.mu-windows-btn {
 		margin-bottom: 10px;
-	} 
-	
+	}
+
 	.mu-menu-btn {
 		top: 44px;
 		color: #fff;
@@ -1213,8 +1213,8 @@ button:focus {
 	.mu-logo img {
 		width: 200px;
 	}
-		
-		
+
+
 }
 
 
@@ -1234,7 +1234,7 @@ button:focus {
 	.mu-title-area {
 		padding: 0;
 	}
-			
+
 
 }
 
@@ -1266,8 +1266,8 @@ button:focus {
 		height: 250px;
 	}
 
-				
-	
+
+
 }
 
 
@@ -1289,9 +1289,9 @@ button:focus {
 	.mu-video-iframe-area {
 		padding: 30% 5%;
 	}
-	
-	
-	
-	
+
+
+
+
 }
 
